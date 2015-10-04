@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\cygwin\home\axel22\workspaces\scala\super-storm-enroute\macrogl\backend-examples-webgl\target\scala-2.11\backend-examples-webgl-fastopt.js[0m
+[0m[[0mdebug[0m] [0mRead info: 15835 us[0m
+[0m[[0mdebug[0m] [0mCompute reachability: 85075 us[0m
+[0m[[0mdebug[0m] [0mOptimizer batch mode: false[0m
+[0m[[0mdebug[0m] [0mIncremental part of inc. optimizer: 50117 us[0m
+[0m[[0mdebug[0m] [0mOptimizing 0 methods.[0m
+[0m[[0mdebug[0m] [0mOptimizer part of inc. optimizer: 367 us[0m
+[0m[[0mdebug[0m] [0mInliner: 50640 us[0m
+[0m[[0mdebug[0m] [0mRefined reachability analysis: 64141 us[0m
+[0m[[0mdebug[0m] [0mOptimizations part: 200110 us[0m
+[0m[[0mdebug[0m] [0mWrite DCE'ed output: 423382 us[0m
+[0m[[0mdebug[0m] [0mInc. opt stats: reused: 3526 -- invalidated: 0 -- trees read: 0[0m
