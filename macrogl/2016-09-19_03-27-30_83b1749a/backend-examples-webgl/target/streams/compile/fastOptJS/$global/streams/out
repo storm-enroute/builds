@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mFast optimizing /tmp/tmpd9zy_3xj/macrogl/backend-examples-webgl/target/scala-2.11/backend-examples-webgl-fastopt.js[0m
+[0m[[0mdebug[0m] [0mRead info: 340770 us[0m
+[0m[[0mdebug[0m] [0mCompute reachability: 331814 us[0m
+[0m[[0mdebug[0m] [0mOptimizer batch mode: true[0m
+[0m[[0mdebug[0m] [0mIncremental part of inc. optimizer: 703633 us[0m
+[0m[[0mdebug[0m] [0mOptimizing 4309 methods.[0m
+[0m[[0mdebug[0m] [0mOptimizer part of inc. optimizer: 1094161 us[0m
+[0m[[0mdebug[0m] [0mInliner: 1799716 us[0m
+[0m[[0mdebug[0m] [0mRefined reachability analysis: 166252 us[0m
+[0m[[0mdebug[0m] [0mOptimizations part: 2308830 us[0m
+[0m[[0mdebug[0m] [0mWrite DCE'ed output: 1366641 us[0m
+[0m[[0mdebug[0m] [0mInc. opt stats: reused: 0 -- invalidated: 3589 -- trees read: 430[0m

@@ -1,0 +1,87 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 1655ef9e, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-unchecked[0m
+[0m[[0mdebug[0m] [0m	-Xexperimental[0m
+[0m[[0mdebug[0m] [0m	-optimise[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-Xmax-classfile-name[0m
+[0m[[0mdebug[0m] [0m	90[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/root/.ivy2/cache/org.scala-lang.modules.scalajs/scalajs-compiler_2.11.4/jars/scalajs-compiler_2.11.4-0.5.6.jar[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/target/scala-2.11/classes:/tmp/tmp7b3ff_vc/macrogl/macrogl-webgl/target/scala-2.11/classes:/tmp/tmp7b3ff_vc/macrogl/macrogl-buffer/target/scala-2.11/classes:/root/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.4.jar:/root/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.4.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/root/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/root/.ivy2/cache/org.scala-lang.modules.scalajs/scalajs-library_2.11/jars/scalajs-library_2.11-0.5.6.jar:/root/.ivy2/cache/org.scala-lang.modules.scalajs/scalajs-dom_sjs0.5_2.11/jars/scalajs-dom_sjs0.5_2.11-0.6.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.130984752 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0mThe /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, funcs, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, MainBannerListener, clone, toString, !=, getClass, render, MainBanner, start, close, ne, init, continue, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, <init>, ==, MainBanner, start, init)[0m
+[0m[[0mdebug[0m] [0mInvalidating /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala)[0m
+[0m[[0mdebug[0m] [0mThe /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, funcs, wait, $asInstanceOf, equals, asInstanceOf, synchronized, errMsg, $isInstanceOf, notifyAll, isInstanceOf, <init>, BasicShape, ==, clone, toString, !=, getClass, render, start, close, ne, init, continue, eq, ##, finalize, hashCode, BasicShapeListener.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, <init>, BasicShape, ==, start, init)[0m
+[0m[[0mdebug[0m] [0mInvalidating /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala by /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala[0m
+[0m[[0mdebug[0m] [0mIncluding /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala by /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala[0m
+[0m[[0mdebug[0m] [0mIncluding /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala by /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala, /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala)[0m
+[0m[[0mdebug[0m] [0mThe /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/DemoRenderable.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, DemoRenderable, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, start, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/MainBanner.scala: Set(DemoRenderable, asInstanceOf, isInstanceOf, <init>, ==, ne)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala: Set(DemoRenderable, asInstanceOf, isInstanceOf, <init>, ==, ne)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicShape.scala: Set(DemoRenderable, asInstanceOf, isInstanceOf, <init>, ==, ne)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, <init>, ==, start)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, <init>, ==, start)[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, <init>, ==, start)[0m
+[0m[[0mdebug[0m] [0mInvalidating /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala)[0m
+[0m[[0mdebug[0m] [0mThe /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, $js$exported$meth$mainBanner, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, mainBanner, macroGLTest, main, notifyAll, isInstanceOf, shapeExample, $js$exported$meth$shapeExample, ==, clone, toString, !=, getClass, WebglExamples, ne, eq, $js$exported$meth$main, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala)[0m
+[0m[[0mdebug[0m] [0mThe /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/common/scala/org/macrogl/examples/backend/common/BasicTriangle.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, funcs, wait, $asInstanceOf, equals, asInstanceOf, synchronized, errMsg, $isInstanceOf, notifyAll, isInstanceOf, BasicTriangle, <init>, ==, BasicTriangleListener, clone, toString, !=, getClass, render, start, close, ne, init, continue, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /tmp/tmp7b3ff_vc/macrogl/backend-examples-webgl/../src/backend-examples/webgl/scala/org/macrogl/examples/backend/webgl/WebglExamples.scala: Set(asInstanceOf, BasicTriangle, <init>, ==, start, init)[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

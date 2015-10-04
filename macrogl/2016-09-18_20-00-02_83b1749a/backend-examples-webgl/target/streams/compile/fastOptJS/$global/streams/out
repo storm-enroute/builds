@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mFast optimizing /drone/src/github.com/storm-enroute/macrogl/backend-examples-webgl/target/scala-2.11/backend-examples-webgl-fastopt.js[0m
+[0m[[0mdebug[0m] [0mRead info: 1350040 us[0m
+[0m[[0mdebug[0m] [0mCompute reachability: 2740372 us[0m
+[0m[[0mdebug[0m] [0mOptimizer batch mode: true[0m
+[0m[[0mdebug[0m] [0mIncremental part of inc. optimizer: 5767468 us[0m
+[0m[[0mdebug[0m] [0mOptimizing 4309 methods.[0m
+[0m[[0mdebug[0m] [0mOptimizer part of inc. optimizer: 14076101 us[0m
+[0m[[0mdebug[0m] [0mInliner: 19882198 us[0m
+[0m[[0mdebug[0m] [0mRefined reachability analysis: 905792 us[0m
+[0m[[0mdebug[0m] [0mOptimizations part: 23539183 us[0m
+[0m[[0mdebug[0m] [0mWrite DCE'ed output: 10246926 us[0m
+[0m[[0mdebug[0m] [0mInc. opt stats: reused: 0 -- invalidated: 3589 -- trees read: 430[0m
